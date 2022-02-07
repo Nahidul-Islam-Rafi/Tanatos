@@ -446,6 +446,7 @@ header {
 .team-box:hover img {
   filter: grayscale(0%);
   transform: scale(1.1);
+  cursor: pointer;
 }
 .team-box:hover .fb {
   background-color: #205b9f;
